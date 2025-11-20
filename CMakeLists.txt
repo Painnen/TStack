@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.5)
 
-set(PROJECT_NAME TStack)
+set(PROJECT_NAME stack)
 project(${PROJECT_NAME})
 
 # TODO(Korniakov): not sure if these lines are needed
